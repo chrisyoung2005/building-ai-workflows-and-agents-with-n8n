@@ -1,0 +1,8 @@
+Prio: Not urgent
+
+Name: Chris
+
+Submitted: 2025-11-16T20:48:09.796-08:00
+
+Description:
+User is unable to reset their password and requires human assistance.
